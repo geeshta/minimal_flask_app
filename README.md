@@ -1,1 +1,4 @@
-A simple flask app used for checking if your server and WSGI configuration are correct and you can actually run a flask app on your server. It's not literally the smallest possible flask app, that would be just one simple file. It has a form of a module, has some very basic structure and renders an actual html template with a "secret" functionality.
+A bash scripts that generates a working Flask app skeleton.<br>
+Usage: `sh ./flask-init.sh app`<br>
+Replace "app" with whatever name you like.<br>
+Also included are the generated files.
